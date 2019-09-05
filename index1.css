@@ -1,0 +1,91 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+header{
+
+  min-height: 1000px;
+}
+.navbar{
+  min-height:120px;
+  font-size: 30px;
+
+}
+#img1{
+  margin-top: 100px;
+  margin-right: 10px;
+  width:100%;
+  height: auto;
+}
+#cont{
+  margin-top: 200px;
+  margin-right: 150px;
+}
+#cont h6{
+  padding: 35px;
+}
+#cont button{
+  padding: 15px;
+  margin-top:100px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+  border-radius: 30px;
+}
+
+#cont button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+#navb{
+  color: #F9E79F;
+}
+section{
+  min-height: 500px;
+  padding:10px;
+}
+#cont1{
+  background-color: pink;
+}
+.row{
+  text-align: center;
+}
+.lasun{
+  padding:20px;
+  margin-left: 10%;
+}
+
+
+.imgbutton{
+  text-align: center;
+}
+table{
+  padding:20px;
+  margin-left: 300px;
+}
+#dis{
+  padding:10px;
+  font-size: 18px;
+}
+.sect1{
+  margin-left: 200px;
+  padding: 30px;
+}
+.footer{
+  background-color: grey;
+  color:black;
+  height:300px;
+  position:relative;
+}
+.footer .footer-bottom{
+  background: black;
+  color:#ffffff;
+  height:50px;
+  width:100%;
+  position: absolute;
+  text-align:center;
+  padding-top: 20px;
+  bottom:0px;
+
+}
